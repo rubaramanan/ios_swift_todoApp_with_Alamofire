@@ -1,0 +1,6 @@
+module Pods_catwalk {
+  umbrella header "Pods-catwalk-umbrella.h"
+
+  export *
+  module * { export * }
+}
